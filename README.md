@@ -35,29 +35,33 @@
     - HTML
     - CSS
     - JavaScript
-10. [Weather app](https://github.com/pygosclune/js-weather-app)
+10. [To-do list](https://github.com/pygosclune/todo-list-page)
     - HTML
     - CSS
     - JavaScript
-11. [Linked list](https://github.com/pygosclune/js-linked-list)
-    - JavaScript
-12. [Homepage](https://github.com/pygosclune/homepage)
+11. [Weather app](https://github.com/pygosclune/js-weather-app)
     - HTML
     - CSS
     - JavaScript
-13. [CV application]()
+12. [Linked list](https://github.com/pygosclune/js-linked-list)
+    - JavaScript
+13. [Homepage](https://github.com/pygosclune/homepage)
+    - HTML
+    - CSS
+    - JavaScript
+14. [CV application]()
     - React
-14. [Shopping cart]()
+15. [Shopping cart]()
     - React
-15. [Mini message board]()
+16. [Mini message board]()
     - Node.js
     - Express
-16. [Inv app]()
+17. [Inv app]()
     - Node.js
     - Express
-17. [Blog API]()
+18. [Blog API]()
     - Node.js
     - Express
-18. [Blog frontend]()
+19. [Blog frontend]()
     - React
     - NextUI
