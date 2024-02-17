@@ -51,12 +51,11 @@
     - JavaScript
 14. [CV application]()
     - React
-15. [Shopping cart]()
+15. [Memory card]()
     - React
-16. [Mini message board]()
-    - Node.js
-    - Express
-17. [Inv app]()
+16. [Shopping cart]()
+    - React
+17. [Mini message board]()
     - Node.js
     - Express
 18. [Blog API]()
